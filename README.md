@@ -18,7 +18,7 @@ Program ini dibuat untuk mengelola data [karyawan] menggunakan bahasa pemrograma
 
 Berikut adalah hasil running program dan struktur databasenya:
 
-### 1. Tampilan perogram 
+### 1. Tampilan program 
 ## Hasil Screenshot<img width="1919" height="1199" alt="tugas-oop" src="https://github.com/user-attachments/assets/7720d4a8-e47d-4d4a-ba78-af8bc4bb4c52" />
 
 
